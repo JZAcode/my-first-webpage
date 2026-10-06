@@ -1,0 +1,29 @@
+.box {
+  padding: 1;
+  border: 5px solid rgb(0, 0, 0);   
+  align-self: center;
+  margin-inline: auto;
+  width: 70%;
+}
+
+#label{
+  text-align: center;
+  background-color: azure;
+
+}
+
+th, td {
+  padding: 10px;
+}
+
+caption {
+  margin-block: 1em;
+  text-align: center;
+}
+
+h1 {
+  color: orange;
+}
+a{
+  font-style: italic;
+}
